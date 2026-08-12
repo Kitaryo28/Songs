@@ -2,19 +2,19 @@
 
 // Lyrics are already included below. You do NOT need to paste them again.
 const lyricBlocks = [
-  { start: 0, end: 4, text: "Gulaabi aankhen jo teri dekhi 👀" },
+  { start: 0, end: 5, text: "Gulaabi aankhen jo teri dekhi 👀" },
   { start: 5, end: 9, text: "Sharaabi yeh dil ho gaya ☕" },
-  { start: 10, end: 18, text: "music.. 🎶" }, // music
+  { start: 10, end: 19, text: "music.. 🎶" }, // music
   { start: 19, end: 23, text: "Dil mein mere khwaab tere 💕" },
   { start: 24, end: 27, text: "taswere jaise ho deewaar pe 💌" },
-  { start: 28, end: 32, text: "Tujhpe fida main kyoon hua 💘" },
-  { start: 33, end: 37, text: "Aata hai gussa mujhe pyaar pe ❤️‍🔥" },
-  { start: 38, end: 41, text: "Main lut gaya maanke dil ka kaha 🥀🫠" },
-  { start: 42, end: 45, text: "Main kahin tha na raha 💔" },
-  { start: 46, end: 51, text: "Kya kahoon main dilruba ❤️‍🩹" },
-  { start: 52, end: 55, text: "Bura yeh jaadu teri aankhon ka 👀" },
-  { start: 56, end: 60, text: "Yeh mera kaatil ho gaya 🔪" },
-  { start: 60, end: 67, text: "Gulaabi aankhen jo teri dekhi👀\nSharaabi yeh dil ho gaya ☕💕" }
+  { start: 28, end: 31, text: "Tujhpe fida main kyoon hua 💘" },
+  { start: 32, end: 36, text: "Aata hai gussa mujhe pyaar pe ❤️‍🔥" },
+  { start: 37, end: 41, text: "Main lut gaya maanke dil ka kaha 🥀🫠" },
+  { start: 41, end: 43, text: "Main kahin tha na raha 💔" },
+  { start: 44, end: 46, text: "Kya kahoon main dilruba ❤️‍🩹" },
+  { start: 46, end: 50, text: "Bura yeh jaadu teri aankhon ka 👀" },
+  { start: 50, end: 55, text: "Yeh mera kaatil ho gaya 🔪" },
+  { start: 55, end: 67, text: "Gulaabi aankhen jo teri dekhi👀\nSharaabi yeh dil ho gaya ☕💕" }
 ];
 
 const music = document.getElementById("music");
