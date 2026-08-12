@@ -206,67 +206,67 @@ const lyrics = [
 
     {
         time: 0,
-        text: "YOUR FIRST LINE 🎵✨"
+        text: "Gulaabi aankhen jo teri dekhi 👀✨"
     },
 
     {
         time: 5,
-        text: "YOUR SECOND LINE 💕"
+        text: "Sharaabi yeh dil ho gaya 💕"
     },
 
     {
         time: 10,
-        text: "YOUR THIRD LINE 👀✨"
+        text: "Sambhaalo mujhko o mere yaaron 🥃✨"
     },
 
     {
         time: 15,
-        text: "YOUR FOURTH LINE 🎶"
+        text: "Sambhalna mushkil ho gaya 🍂"
     },
 
     {
         time: 20,
-        text: "YOUR NEXT LINE 💭❤️"
+        text: "music..💭"
     },
 
     {
         time: 25,
-        text: "YOUR NEXT LINE ✨"
+        text: "Dil mein mere khwaab tere 💕"
     },
 
     {
         time: 30,
-        text: "YOUR NEXT LINE 🫶"
+        text: "taswere jaise ho deewaar pe 🫶"
     },
 
     {
         time: 35,
-        text: "YOUR NEXT LINE 🌙"
+        text: "Tujhpe fida main kyoon hua 🌙"
     },
 
     {
         time: 40,
-        text: "YOUR NEXT LINE ❤️‍🔥"
+        text: "Aata hai gussa mujhe pyaar pe ❤️‍🔥"
     },
 
     {
         time: 45,
-        text: "YOUR NEXT LINE 🎵"
+        text: "Main lut gaya maanke dil ka kaha 🪿"
     },
 
     {
         time: 50,
-        text: "YOUR NEXT LINE 💕"
+        text: "Main kahin tha na raha 💕"
     },
 
     {
         time: 55,
-        text: "YOUR NEXT LINE ✨"
+        text: "Kya kahoon main dilruba ❤️‍🩹"
     },
 
     {
         time: 60,
-        text: "YOUR FINAL LINE ❤️"
+        text: "Bura yeh jaadu teri aankhon ka ❤️"
     }
 
 ];
