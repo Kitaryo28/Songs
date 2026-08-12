@@ -10,7 +10,7 @@ const lyricBlocks = [
   { start: 28, end: 31, text: "Tujhpe fida main kyoon hua 💘" },
   { start: 32, end: 36, text: "Aata hai gussa mujhe pyaar pe ❤️‍🔥" },
   { start: 37, end: 41, text: "Main lut gaya maanke dil ka kaha 🥀🫠" },
-  { start: 41, end: 43, text: "Main kahin tha na raha 💔" },
+  { start: 41, end: 43, text: "Main kahin ka na raha 💔" },
   { start: 44, end: 46, text: "Kya kahoon main dilruba ❤️‍🩹" },
   { start: 46, end: 50, text: "Bura yeh jaadu teri aankhon ka 👀" },
   { start: 50, end: 55, text: "Yeh mera kaatil ho gaya 🔪" },
