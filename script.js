@@ -20,7 +20,7 @@ Sharaabi yeh dil ho gaya
 `;
 
 // Your timing blocks:
-const TIMING_OFFSET = -0.30;
+const TIMING_OFFSET = -2.00;
 const timingBlocks = [
   [0,4],[5,9],[10,18],[19,23],[24,27],[28,32],[33,37],
   [38,41],[42,45],[46,51],[52,55],[56,60],[60,67]
