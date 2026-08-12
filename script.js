@@ -215,58 +215,58 @@ const lyrics = [
     },
 
     {
-        time: 10,
-        text: "Sambhaalo mujhko o mere yaaron 🥃✨"
+        time: 15,
+        text: "Music 🎶.."
     },
 
     {
         time: 15,
-        text: "Sambhalna mushkil ho gaya 🍂"
+        text: "Dil mein mere.. khwaab tere🍂"
     },
 
     {
         time: 20,
-        text: "music..💭"
+        text: "Taswere jaise ho deewaar pe..💭"
     },
 
     {
         time: 25,
-        text: "Dil mein mere khwaab tere 💕"
+        text: " Tujh par Fida.. me kyu hua💕"
     },
 
     {
         time: 30,
-        text: "taswere jaise ho deewaar pe 🫶"
-    },
-
-    {
-        time: 35,
-        text: "Tujhpe fida main kyoon hua 🌙"
-    },
-
-    {
-        time: 40,
         text: "Aata hai gussa mujhe pyaar pe ❤️‍🔥"
     },
 
     {
+        time: 35,
+        text: "Main Lut gya.. manke dil ka khaa 🌙"
+    },
+
+    {
+        time: 40,
+        text: "Me khi ka na rha ❤️‍🔥"
+    },
+
+    {
         time: 45,
-        text: "Main lut gaya maanke dil ka kaha 🪿"
+        text: "Kya khu me dilruba ❤️‍🩹"
     },
 
     {
         time: 50,
-        text: "Main kahin tha na raha 💕"
+        text: "Bura ye jaadu.. teri aankhon ka 👀"
     },
 
     {
         time: 55,
-        text: "Kya kahoon main dilruba ❤️‍🩹"
+        text: "Ye mera Katil hogya..🔪"
     },
 
     {
         time: 60,
-        text: "Bura yeh jaadu teri aankhon ka ❤️"
+        text: "Gulabi Aankhen jo teri dekhi "
     }
 
 ];
