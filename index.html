@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Gulaabi Memories</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main id="app">
+<div id="photoLayer"></div><div class="vignette"></div><div class="shade"></div><div id="particles"></div>
+<section class="lyricsWrap"><div class="label">♪ NOW PLAYING</div><div id="lyrics"></div></section>
+<section class="controls">
+<button id="playBtn">▶</button>
+<div class="progressWrap"><div class="track" id="track"><div id="progress"></div></div><div class="times"><span id="current">0:00</span><span id="duration">0:00</span></div></div>
+<button id="muteBtn">🔊</button>
+</section>
+<section id="startScreen"><div class="card"><div class="disc">♪</div><h1>A Little Memory</h1><p>Put your headphones on<br>and press begin.</p><button id="begin">Begin ✨</button></div></section>
+<section id="ending"><div><div class="heart">♡</div><small>THE END</small><h1>Made by Kitaryo</h1><div>Shinra • 28 • ?</div><p>Some memories deserve to be remembered forever. ✨</p></div></section>
+<audio id="music" preload="metadata"><source src="./music.mp3" type="audio/mpeg"></audio>
+</main>
+<script src="script.js"></script>
+</body>
+</html>
