@@ -3,7 +3,20 @@
 // Keep your original line breaks. Do NOT paste timestamps.
 // =====================================================
 const lyricsText = `
-PASTE ALL YOUR LYRICS HERE
+Gulaabi aankhen jo teri dekhi
+Sharaabi yeh dil ho gaya
+Music..
+Dil mein mere khwaab tere
+taswere jaise ho deewaar pe
+Tujhpe fida main kyoon hua
+Aata hai gussa mujhe pyaar pe
+Main lut gaya maanke dil ka kaha
+Main kahin tha na raha
+Kya kahoon main dilruba
+Pura yeh jaadu teri aankhon ka
+Yeh mera kaatil ho gaya
+Gulaabi aankhen jo teri dekhi
+Sharaabi yeh dil ho gaya
 `;
 
 // Your timing blocks:
