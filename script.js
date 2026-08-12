@@ -215,7 +215,7 @@ const lyrics = [
     },
 
     {
-        time: 15,
+        time: 17,
         text: "Music 🎶.."
     },
 
